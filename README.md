@@ -1,10 +1,14 @@
 # digital-literacy-project
-tudent Details
+
 
 Name: Sanjana
+
 Registration Number: 25BCE10151
+
 Course: CSE0001 - Digital Literacy 
-Branch: B.Tech Computer Science 
+
+Branch: B.Tech Computer Science
+
 Institution: VIT Bhopal University 
 
 # Project Overview
